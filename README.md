@@ -1,4 +1,4 @@
-# Astro Starter Kit: Portfolio
+# Portfolio Adam Marzuk
 
 ```sh
 npm create astro@latest -- --template portfolio
