@@ -1,4 +1,4 @@
-# Astro Starter Kit: Portfolio
+# Portfolio Adam Marzuk
 
 ```sh
 npm create astro@latest -- --template portfolio
@@ -8,9 +8,7 @@ npm create astro@latest -- --template portfolio
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+![portfolio](https://media.discordapp.net/attachments/1156622520175296643/1162787180096258190/image.png?ex=653d34f3&is=652abff3&hm=50254fa68c229efe52554629f1b5836414fd52efdeeef65ae9972230336ec52a&=&width=983&height=468)
 
 ## 🧞 Commands
 
@@ -24,7 +22,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
